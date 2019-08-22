@@ -1,2 +1,2 @@
-# wicv-dev
-wicv-dev
+# wicv-ms-learn-discovery
+wicv-ms-learn-discovery
